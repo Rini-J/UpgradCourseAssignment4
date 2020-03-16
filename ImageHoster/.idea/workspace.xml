@@ -62,7 +62,67 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.6643678" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.HomeControllerTest">
+    <configuration name="CommentControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.CommentControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.HomeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.ImageControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageHoster.controller" />
+      <option name="MAIN_CLASS_NAME" value="ImageHoster.controller.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImageHosterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ImageHoster" />
       <extension name="coverage">
@@ -78,6 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HomeControllerTest" />
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.ImageControllerTest" />
+        <item itemvalue="JUnit.CommentControllerTest" />
         <item itemvalue="Spring Boot.ImageHosterApplication" />
       </list>
     </recent_temporary>
@@ -107,7 +171,7 @@
       <workItem from="1541430847431" duration="899000" />
       <workItem from="1541482181542" duration="4602000" />
       <workItem from="1584347916831" duration="17000" />
-      <workItem from="1584348001320" duration="6179000" />
+      <workItem from="1584348001320" duration="6586000" />
     </task>
     <servers />
   </component>
@@ -123,38 +187,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584349047699" />
-    <state width="982" height="97" key="GridCell.Tab.0.bottom" timestamp="1584365068465">
+    <state width="972" height="181" key="GridCell.Tab.0.bottom" timestamp="1584366146738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.0.center" timestamp="1584365068465">
+    <state width="972" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584366146738" />
+    <state width="972" height="181" key="GridCell.Tab.0.center" timestamp="1584366146737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.0.left" timestamp="1584365068465">
+    <state width="972" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584366146737" />
+    <state width="972" height="181" key="GridCell.Tab.0.left" timestamp="1584366146737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.0.right" timestamp="1584365068465">
+    <state width="972" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584366146737" />
+    <state width="972" height="181" key="GridCell.Tab.0.right" timestamp="1584366146738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.1.bottom" timestamp="1584365068465">
+    <state width="972" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584366146738" />
+    <state width="982" height="5" key="GridCell.Tab.1.bottom" timestamp="1584365623029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.1.center" timestamp="1584365068465">
+    <state width="982" height="5" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584365623029" />
+    <state width="982" height="5" key="GridCell.Tab.1.center" timestamp="1584365623029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.1.left" timestamp="1584365068465">
+    <state width="982" height="5" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584365623029" />
+    <state width="982" height="5" key="GridCell.Tab.1.left" timestamp="1584365623029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
-    <state width="982" height="97" key="GridCell.Tab.1.right" timestamp="1584365068465">
+    <state width="982" height="5" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584365623029" />
+    <state width="982" height="5" key="GridCell.Tab.1.right" timestamp="1584365623029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="982" height="97" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584365068465" />
+    <state width="982" height="5" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584365623029" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584348005214">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
