@@ -50,6 +50,7 @@ public class ImageController {
         Image image = imageService.getImage(imageId);
         model.addAttribute("image", image);
         model.addAttribute("tags", image.getTags());
+        model.addAttribute("comments", image.getComments());
         return "images/image";
     }
 
@@ -164,6 +165,7 @@ public class ImageController {
         } else {
             model.addAttribute("tags", currentImage.getTags());
             model.addAttribute("image", currentImage);
+            model.addAttribute("comments", currentImage.getComments());
             model.addAttribute("deleteError", "Only the owner of the image can delete the image");
             return "images/image";
         }
